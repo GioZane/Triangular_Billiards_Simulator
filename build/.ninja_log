@@ -1,0 +1,17 @@
+# ninja log v5
+8277	8453	1756068682648284887	Release/biliardo_test	d5661987e12034f5
+5	8277	1756068682472595280	CMakeFiles/biliardo_test.dir/Release/biliardo_test.cpp.o	e8de7c659aeac4b3
+5	2124	1756068632347404022	CMakeFiles/programma.dir/Debug/biliardo_statistica.cpp.o	e85ea51fa6df6f70
+4	2941	1756068633159397696	CMakeFiles/programma.dir/Debug/main.cpp.o	d03ca778f759748d
+2593	2807	1756068677006696390	Release/programma	928ef279f062669a
+4	2254	1756068632476229942	CMakeFiles/programma.dir/Debug/biliardo.cpp.o	cadb5a0219dfc6dd
+2941	3263	1756068633483414402	Debug/programma	a9206e6712305e0
+3	32	0	CMakeFiles/Release/test.util	9c80c391774c7d4b
+6	1950	1756068676151673627	CMakeFiles/biliardo_test.dir/Release/biliardo.cpp.o	a6ec79fb303cc41c
+5	9464	1756068639657360239	CMakeFiles/biliardo_test.dir/Debug/biliardo_test.cpp.o	801eea727b663306
+9464	9756	1756068639973442657	Debug/biliardo_test	e251b17601f41024
+4	69	0	CMakeFiles/Debug/test.util	33537d637c06cc09
+5	1799	1756068676003313512	CMakeFiles/programma.dir/Release/biliardo_statistica.cpp.o	9a9c245eadd4b504
+6	2265	1756068632487941389	CMakeFiles/biliardo_test.dir/Debug/biliardo.cpp.o	119857aff28ea02
+4	2034	1756068676237566324	CMakeFiles/programma.dir/Release/biliardo.cpp.o	90d295aa21871d06
+4	2593	1756068676791964647	CMakeFiles/programma.dir/Release/main.cpp.o	cec5f5ec0915ddd

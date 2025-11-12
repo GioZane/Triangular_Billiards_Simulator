@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/cperoni/laboratori/progetto/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"Debug\\\" -isystem /home/cperoni/progetto/SFML-2.6.0/include  -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -g -fsanitize=address,undefined -std=c++20 -o CMakeFiles/programma.dir/Debug/main.cpp.o -c /home/cperoni/laboratori/progetto/main.cpp",
+  "file": "/home/cperoni/laboratori/progetto/main.cpp",
+  "output": "CMakeFiles/programma.dir/Debug/main.cpp.o"
+},
+{
+  "directory": "/home/cperoni/laboratori/progetto/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"Debug\\\" -isystem /home/cperoni/progetto/SFML-2.6.0/include  -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -g -fsanitize=address,undefined -std=c++20 -o CMakeFiles/programma.dir/Debug/biliardo.cpp.o -c /home/cperoni/laboratori/progetto/biliardo.cpp",
+  "file": "/home/cperoni/laboratori/progetto/biliardo.cpp",
+  "output": "CMakeFiles/programma.dir/Debug/biliardo.cpp.o"
+},
+{
+  "directory": "/home/cperoni/laboratori/progetto/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"Debug\\\" -isystem /home/cperoni/progetto/SFML-2.6.0/include  -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -g -fsanitize=address,undefined -std=c++20 -o CMakeFiles/programma.dir/Debug/biliardo_statistica.cpp.o -c /home/cperoni/laboratori/progetto/biliardo_statistica.cpp",
+  "file": "/home/cperoni/laboratori/progetto/biliardo_statistica.cpp",
+  "output": "CMakeFiles/programma.dir/Debug/biliardo_statistica.cpp.o"
+},
+{
+  "directory": "/home/cperoni/laboratori/progetto/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"Release\\\" -isystem /home/cperoni/progetto/SFML-2.6.0/include  -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -O3 -DNDEBUG -std=c++20 -o CMakeFiles/programma.dir/Release/main.cpp.o -c /home/cperoni/laboratori/progetto/main.cpp",
+  "file": "/home/cperoni/laboratori/progetto/main.cpp",
+  "output": "CMakeFiles/programma.dir/Release/main.cpp.o"
+},
+{
+  "directory": "/home/cperoni/laboratori/progetto/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"Release\\\" -isystem /home/cperoni/progetto/SFML-2.6.0/include  -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -O3 -DNDEBUG -std=c++20 -o CMakeFiles/programma.dir/Release/biliardo.cpp.o -c /home/cperoni/laboratori/progetto/biliardo.cpp",
+  "file": "/home/cperoni/laboratori/progetto/biliardo.cpp",
+  "output": "CMakeFiles/programma.dir/Release/biliardo.cpp.o"
+},
+{
+  "directory": "/home/cperoni/laboratori/progetto/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"Release\\\" -isystem /home/cperoni/progetto/SFML-2.6.0/include  -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -O3 -DNDEBUG -std=c++20 -o CMakeFiles/programma.dir/Release/biliardo_statistica.cpp.o -c /home/cperoni/laboratori/progetto/biliardo_statistica.cpp",
+  "file": "/home/cperoni/laboratori/progetto/biliardo_statistica.cpp",
+  "output": "CMakeFiles/programma.dir/Release/biliardo_statistica.cpp.o"
+},
+{
+  "directory": "/home/cperoni/laboratori/progetto/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem /home/cperoni/progetto/SFML-2.6.0/include  -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -O2 -g -DNDEBUG -std=c++20 -o CMakeFiles/programma.dir/RelWithDebInfo/main.cpp.o -c /home/cperoni/laboratori/progetto/main.cpp",
+  "file": "/home/cperoni/laboratori/progetto/main.cpp",
+  "output": "CMakeFiles/programma.dir/RelWithDebInfo/main.cpp.o"
+},
+{
+  "directory": "/home/cperoni/laboratori/progetto/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem /home/cperoni/progetto/SFML-2.6.0/include  -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -O2 -g -DNDEBUG -std=c++20 -o CMakeFiles/programma.dir/RelWithDebInfo/biliardo.cpp.o -c /home/cperoni/laboratori/progetto/biliardo.cpp",
+  "file": "/home/cperoni/laboratori/progetto/biliardo.cpp",
+  "output": "CMakeFiles/programma.dir/RelWithDebInfo/biliardo.cpp.o"
+},
+{
+  "directory": "/home/cperoni/laboratori/progetto/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem /home/cperoni/progetto/SFML-2.6.0/include  -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -O2 -g -DNDEBUG -std=c++20 -o CMakeFiles/programma.dir/RelWithDebInfo/biliardo_statistica.cpp.o -c /home/cperoni/laboratori/progetto/biliardo_statistica.cpp",
+  "file": "/home/cperoni/laboratori/progetto/biliardo_statistica.cpp",
+  "output": "CMakeFiles/programma.dir/RelWithDebInfo/biliardo_statistica.cpp.o"
+},
+{
+  "directory": "/home/cperoni/laboratori/progetto/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"Debug\\\" -isystem /home/cperoni/progetto/SFML-2.6.0/include  -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -g -fsanitize=address,undefined -std=c++20 -o CMakeFiles/biliardo_test.dir/Debug/biliardo_test.cpp.o -c /home/cperoni/laboratori/progetto/biliardo_test.cpp",
+  "file": "/home/cperoni/laboratori/progetto/biliardo_test.cpp",
+  "output": "CMakeFiles/biliardo_test.dir/Debug/biliardo_test.cpp.o"
+},
+{
+  "directory": "/home/cperoni/laboratori/progetto/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"Debug\\\" -isystem /home/cperoni/progetto/SFML-2.6.0/include  -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -g -fsanitize=address,undefined -std=c++20 -o CMakeFiles/biliardo_test.dir/Debug/biliardo.cpp.o -c /home/cperoni/laboratori/progetto/biliardo.cpp",
+  "file": "/home/cperoni/laboratori/progetto/biliardo.cpp",
+  "output": "CMakeFiles/biliardo_test.dir/Debug/biliardo.cpp.o"
+},
+{
+  "directory": "/home/cperoni/laboratori/progetto/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"Release\\\" -isystem /home/cperoni/progetto/SFML-2.6.0/include  -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -O3 -DNDEBUG -std=c++20 -o CMakeFiles/biliardo_test.dir/Release/biliardo_test.cpp.o -c /home/cperoni/laboratori/progetto/biliardo_test.cpp",
+  "file": "/home/cperoni/laboratori/progetto/biliardo_test.cpp",
+  "output": "CMakeFiles/biliardo_test.dir/Release/biliardo_test.cpp.o"
+},
+{
+  "directory": "/home/cperoni/laboratori/progetto/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"Release\\\" -isystem /home/cperoni/progetto/SFML-2.6.0/include  -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -O3 -DNDEBUG -std=c++20 -o CMakeFiles/biliardo_test.dir/Release/biliardo.cpp.o -c /home/cperoni/laboratori/progetto/biliardo.cpp",
+  "file": "/home/cperoni/laboratori/progetto/biliardo.cpp",
+  "output": "CMakeFiles/biliardo_test.dir/Release/biliardo.cpp.o"
+},
+{
+  "directory": "/home/cperoni/laboratori/progetto/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem /home/cperoni/progetto/SFML-2.6.0/include  -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -O2 -g -DNDEBUG -std=c++20 -o CMakeFiles/biliardo_test.dir/RelWithDebInfo/biliardo_test.cpp.o -c /home/cperoni/laboratori/progetto/biliardo_test.cpp",
+  "file": "/home/cperoni/laboratori/progetto/biliardo_test.cpp",
+  "output": "CMakeFiles/biliardo_test.dir/RelWithDebInfo/biliardo_test.cpp.o"
+},
+{
+  "directory": "/home/cperoni/laboratori/progetto/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -isystem /home/cperoni/progetto/SFML-2.6.0/include  -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -O2 -g -DNDEBUG -std=c++20 -o CMakeFiles/biliardo_test.dir/RelWithDebInfo/biliardo.cpp.o -c /home/cperoni/laboratori/progetto/biliardo.cpp",
+  "file": "/home/cperoni/laboratori/progetto/biliardo.cpp",
+  "output": "CMakeFiles/biliardo_test.dir/RelWithDebInfo/biliardo.cpp.o"
+}
+]
